@@ -1,2 +1,10 @@
 This is my first test entry.
 
+add a new journal entry
+
+“Hey, I broke the logic into a separate file to keep my app clean and modular.”
+
+faee
+
+efqf
+
